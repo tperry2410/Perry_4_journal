@@ -1,0 +1,5 @@
+We entered our email, and username into git and then we listed it out to make sure it was correct.
+we typed, git config user.name "tperry2410"
+git config user.email "tlperry98@gmail.com"
+then we listed it using git config list
+and it listed our username and email
