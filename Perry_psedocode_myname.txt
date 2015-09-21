@@ -1,0 +1,25 @@
+Begin:
+	Draw Forward 2
+	Turn Right 180 degrees
+	Draw Forward 1
+	Turn Left 90 degrees
+	Draw Forward 3
+End
+
+Begin:
+	Turn Right 180 degrees
+	Draw Forward 3
+End
+
+Begin:
+	Turn Right 180 degrees
+	Draw Forward 3
+	Turn Right 180 degrees
+	Draw Forward 3
+	Turn Right 135 degrees
+	Draw Forward 4
+	Turn Left 90 degrees
+	Draw Forward 4
+	Turn Rightt 135 degrees
+	Draw Forward 3
+End

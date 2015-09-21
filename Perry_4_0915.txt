@@ -1,0 +1,2 @@
+An IDE is a software applocation that provides comprehemsive facilities to computer programmers for software development.
+It is good for when creating codes to produce software development.

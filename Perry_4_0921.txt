@@ -1,0 +1,4 @@
+I have 5 missing journals, and it is important to use the nameing convention
+when naming a file because it shows the you've done the journal for today and
+will let the teacher be able to grade it. The code to copy in linux will be
+"cp art.png Perry_4_art.png".

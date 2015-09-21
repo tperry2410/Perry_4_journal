@@ -1,0 +1,2 @@
+Pseudocode is a simple way to code, it is good to use pseudocode to practice for coding
+We will use it to practice our coding skills.
