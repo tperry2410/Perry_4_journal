@@ -1,0 +1,4 @@
+You can count in Java by using the code "(i = 0; i < (anynumber); i++)".
+To see if a number is divisible, you can use 
+To see if a number is a divisor, you would use the module (%) and whenever 
+there is a "0", the number you used with "%", has a divisor.
