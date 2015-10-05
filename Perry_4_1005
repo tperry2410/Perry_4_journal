@@ -1,0 +1,4 @@
+Code comments are used to place information within codes.
+They will be in "//" or "/*". They are good for when taking notes about
+the code that you are typing. They can be used for later when needing to
+have a review with that one code you're stuck on.
