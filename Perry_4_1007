@@ -1,0 +1,5 @@
+A Java class might be something that has many different classifications,
+like for "scene", it could have many different ones, "scene.group scene.scene"
+A Java class in JavaFX is just simple different codes that refer to the same
+thing "scene.(object)" "scene.(object)"
+A method for class might be include the class, then what that class will do.
