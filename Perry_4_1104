@@ -1,0 +1,10 @@
+A method is something that tells the program to do. Like for a while method,
+it tells the program that "while this is true... this happens" and so on.
+For the guessing game, we used the while method.
+A while loop is something that continuously loops forever until something
+causues that loop to end.
+For the while loop in my game, i used it for telling the player when the game
+ends. i had a counter that told the player how many guesses they had left, and
+when the amount of guesses hit 0, the game ended. for the boolean. i used
+it for the "playgame" integer. when playgame was false, it stopped the game.
+but while it was true, the game continued.
