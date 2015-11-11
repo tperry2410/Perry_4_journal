@@ -1,0 +1,6 @@
+In my game, the player must choose the correct path to find his/her way 
+through a nightmare maze, if he makes on mistake, theres a different thing that
+happens. But if you can find the way to the end, then you win the game.
+In order to track their progress, the game doesn't allow you to change 
+directions in the option you pick, like if you move forward but want to go back,
+there is a penalty to it, or death in this case.
