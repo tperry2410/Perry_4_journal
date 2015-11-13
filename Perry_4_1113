@@ -1,0 +1,6 @@
+I'll use the while loop to show that if the person has a flashlight, they will
+be able to see, but if they didn't have one, it would be pitch dark and you'd 
+have to feel around to make your way through the game.
+Using methods in my game will let me to use my while loop by placing the
+flashlight, their health, and items they've picked up, to help me with my while
+loops.
