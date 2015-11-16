@@ -1,0 +1,10 @@
+I will use static void, which will allow me to tell the player when the game
+ends or when they win.
+I will use static void to ask if they want to play a game or not.
+I will use a while loop for a knife for when they have to kill the monster, or
+get killed by the moster.
+I will use a a static void so they can decide weither to pick up a flashlight or
+go into the next room (with door wide open) that is pitch dark and have to find
+a way out of the room.
+I will use a static void to let the player pick a bloody note up or to leave
+it where it is.
