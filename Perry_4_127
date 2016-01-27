@@ -1,0 +1,4 @@
+In order to make an image in a slick game, you have to make a public class
+For example: "public Image startimage;"
+The image is drawn in the code when the class is called.
+"startimage = new Image("res/Lorelei.png");"
