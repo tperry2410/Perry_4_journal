@@ -1,0 +1,2 @@
+It is a method because it has different render classes in the code.
+whenever it reaches these classes, it throws SlickException
