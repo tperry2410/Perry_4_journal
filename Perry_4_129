@@ -1,0 +1,4 @@
+The orbs should have position, a hitbox, and something that it does when
+touched. A constructor is how something is built. The orb should have position
+because it needs to be in the game. It needs a hitbox, cause it needs to be
+a object in the game, not a imagionary image.
