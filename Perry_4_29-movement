@@ -1,0 +1,4 @@
+we set the direction in the Orb class.
+public int getDirection(){
+	return this.getDirection();
+}
