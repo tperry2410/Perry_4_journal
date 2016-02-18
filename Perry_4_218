@@ -1,0 +1,6 @@
+The code is the animation for the character running in an upwards position.
+An array is an object class within a list of other objects.
+An arraylist is a list of things dealing with the arrya or object.
+Array is a class object, arraylist is a list of things in the object.
+We could make a health bar creating a array and then having an arraylist of the
+different things that are required in a healthbar.
