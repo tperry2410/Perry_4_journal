@@ -1,0 +1,5 @@
+I will have to know how to create hitboxes and attack methods so the enemies
+don't go through walls and can damage the player. Also hitboxes so when you 
+collect the items, you can get score, if they give any. And hitboxes to 
+have a "portal" or checkpoints for the player to go to the next level of the 
+game/dungeon.
