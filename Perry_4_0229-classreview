@@ -1,0 +1,33 @@
+1. public class Toast {
+
+}
+2. No, this creates an object, not a class-but it calls on the class constrictor
+calling it from class "Donut", with Donut();
+3. public class Cake{
+	String icing;
+	boolean isEaten;
+	int layers;
+	boolean hasCandles;
+	int candles;
+	
+
+	Public Cake(String a, int b){
+		this.icing = a;
+		this.isEaten = false;
+		this.layers = b;
+	}
+//a getter gets, i.e. a getter will return valuse from an object, e.g.
+	public boolean getisEaten(){
+		return this.isEaten;
+	}
+//a setter set variable values for an instance,
+	public void setisEaten(boolean b){
+		
+	}
+}
+4. int[] coolNumberzzz;
+String[] beFast;
+boolean[] [] blocked;
+Breakfast[] reyesFamilyBreakfast;
+5. Josh.setisEaten(true);
+Josh.getisEaten();y
