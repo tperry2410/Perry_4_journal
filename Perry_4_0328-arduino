@@ -1,0 +1,21 @@
+Arduino uses "void loop" while c programming language uses "if()".
+Arduino uses "digitalWriting" while you won't see those in a C programmed language.
+Arduino and C programming languages both use "void" for a few statements.
+I haven't made any code adaptations to date yet.
+A circuit requires a 5v wire and a GND wire towards positive/negative.
+They are all seperated in "File-Examples."
+The projects me and my partner completed were circuit_01-06. In circuit 1, we
+learned how to make a led light flash with the code. Whenever using the pins, 
+you need a "pinMode()" in the code which will allow you to use either "output"
+or "input', but in this code we used output, so we use a "digitalWrite()" to
+command that pin to turn on at high power or low. In Circuit 2, we learned how
+a potentiometer controls the rate of how much a led blinks depending on how
+much light it receives. Circuit 3 was the coolest one that we did. We learned 
+that using code, we can control the leds rate and brihgtness for the different 
+colors that were blinking throught the led. Circuit 4 was also a cool one
+because we got to make lights flash in a random, fashion order using the
+"index = random(8)" code. Circuit 5 was a push button and light comes on or
+off. Circuit 6 was an example of how bright you can make the led light be when
+you have your hand over the photo resistor. These are the neat things that me
+and my partner did last week, hopefully we will continue and complete with the
+entire book that has a lot more things for us to do.
